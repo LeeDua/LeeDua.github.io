@@ -25,23 +25,23 @@ self.__precacheManifest = [
   },
   {
     "url": "2020/04/24/建站啦/index.html",
-    "revision": "7dfcfdf3523582ceb7e8f583db33557b"
+    "revision": "9a4499d62654596dd2f9bbbf6780c2fb"
   },
   {
     "url": "2020/04/26/vuepress看板娘小埋/index.html",
-    "revision": "6b703d5b06aef053d65851486975cd81"
+    "revision": "cfb0affba98060f748552997abde495f"
   },
   {
     "url": "404.html",
-    "revision": "a3a2c516729d50634b14dd69bbfbf160"
+    "revision": "0486bd0577bade3bd743b2918fdbd1bf"
   },
   {
     "url": "about/index.html",
-    "revision": "29d5ace0956a10a05470510bad554582"
+    "revision": "25ea08467dd3d12e289520c0482fbec0"
   },
   {
-    "url": "assets/css/0.styles.6d8de1df.css",
-    "revision": "d73a90a44dd10d5b48620fda4548d0bf"
+    "url": "assets/css/0.styles.197062d3.css",
+    "revision": "35ec8afa8ec74a0d89684e8de23b1930"
   },
   {
     "url": "assets/fonts/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.9738e026.woff2",
@@ -116,16 +116,16 @@ self.__precacheManifest = [
     "revision": "eeeabbe2fac07eb6f212ee618417198b"
   },
   {
-    "url": "assets/js/8.ce1135c2.js",
-    "revision": "66fad3cb584a220e94adb733b0fe98b3"
+    "url": "assets/js/8.23d5fd4a.js",
+    "revision": "546c55aecc145d80f9dae397ea78baef"
   },
   {
-    "url": "assets/js/9.34f1cec0.js",
-    "revision": "bc2ec986f2931f6e9483431b68bc40d5"
+    "url": "assets/js/9.eaf8dcc3.js",
+    "revision": "a65ebb43ed310530187129a20dac9bd4"
   },
   {
-    "url": "assets/js/app.da30e5a3.js",
-    "revision": "87e024c13776c9b73f47e39aa8adf99b"
+    "url": "assets/js/app.f640b1c3.js",
+    "revision": "90e498e35d05de561d9a695da29b2344"
   },
   {
     "url": "assets/js/vuejs-paginate.643397bf.js",
@@ -141,15 +141,15 @@ self.__precacheManifest = [
   },
   {
     "url": "category/code/index.html",
-    "revision": "995e69028daa3dc08f5e55551d732933"
+    "revision": "798f7f5a0f67090c5a9e9d74a7c5d7b3"
   },
   {
     "url": "category/index.html",
-    "revision": "6b5612bd304a1cfa3ea7eecbde1aa85e"
+    "revision": "b092be4beb911e1de983e6ae8b38b598"
   },
   {
     "url": "index.html",
-    "revision": "4005666e3bfaa9586e2527610ad453ca"
+    "revision": "d6cfcb89ccf6e51ed76f7fb6eac1caa8"
   },
   {
     "url": "live2d.min.js",
@@ -161,23 +161,23 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/blog/index.html",
-    "revision": "12b23a72f2b53825bdcdf94a6dad4281"
+    "revision": "0d757af4fcf04ae0027b63a6fe35498b"
   },
   {
     "url": "tag/custome theme/index.html",
-    "revision": "f264b1e75577bdf3b32e07e0751d5b22"
+    "revision": "9085710cc85f2ae544eee06e4b83527c"
   },
   {
     "url": "tag/index.html",
-    "revision": "ab708f2773b0b0fd4c469150c5885baf"
+    "revision": "6a8aa7efec501265814fd33c8fa084a5"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "8ad6f73c446efd5c7141d15ce0fc4a1e"
+    "revision": "d1234f4111af3fb6dbeae93b98309151"
   },
   {
     "url": "tag/看板娘/index.html",
-    "revision": "9eccb87b7d881349d82aac73779eac8f"
+    "revision": "7b9066c83cf14bac94415480b1569195"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
