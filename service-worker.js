@@ -25,23 +25,23 @@ self.__precacheManifest = [
   },
   {
     "url": "2020/04/24/建站啦/index.html",
-    "revision": "9a4499d62654596dd2f9bbbf6780c2fb"
+    "revision": "9d94c1f136180c542a6cf235d1647502"
   },
   {
     "url": "2020/04/26/vuepress看板娘小埋/index.html",
-    "revision": "cfb0affba98060f748552997abde495f"
+    "revision": "15ee456b28078d59004ea38c293873c3"
   },
   {
     "url": "404.html",
-    "revision": "0486bd0577bade3bd743b2918fdbd1bf"
+    "revision": "d649e1f8bdd829bf1823c99a93c17665"
   },
   {
     "url": "about/index.html",
-    "revision": "25ea08467dd3d12e289520c0482fbec0"
+    "revision": "0f3759cc647d5a3e6deceaeafa955352"
   },
   {
-    "url": "assets/css/0.styles.197062d3.css",
-    "revision": "35ec8afa8ec74a0d89684e8de23b1930"
+    "url": "assets/css/0.styles.fb097c5d.css",
+    "revision": "8bef8de98d3cd134dd5242658b1952c1"
   },
   {
     "url": "assets/fonts/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.9738e026.woff2",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "revision": "7f7ac5408ad83ba8ee3405733449d252"
   },
   {
-    "url": "assets/js/12.3e49fa3b.js",
-    "revision": "09f0ef41c878ffc3278ce62285477933"
+    "url": "assets/js/12.88c81a55.js",
+    "revision": "6c0db26231f3cb16755a4eae5ce8bbf1"
   },
   {
     "url": "assets/js/13.355bff21.js",
@@ -84,8 +84,8 @@ self.__precacheManifest = [
     "revision": "621bea33430a9cb9ae2b1bd39bee07cb"
   },
   {
-    "url": "assets/js/16.b71f4681.js",
-    "revision": "b329d34a4dc452127408e39f2bd8f808"
+    "url": "assets/js/16.dfd02b72.js",
+    "revision": "5cffd48284f2aad6cab7be00000d750d"
   },
   {
     "url": "assets/js/17.6c15709a.js",
@@ -100,32 +100,32 @@ self.__precacheManifest = [
     "revision": "d8e8dfdf1a02d9a8adb376f3dd21a7cd"
   },
   {
-    "url": "assets/js/4.58c6600e.js",
-    "revision": "f9366f1755f399dc7c342591d5d92c63"
+    "url": "assets/js/4.17d61346.js",
+    "revision": "cf98c515f275733b2538074cfcdfac39"
   },
   {
     "url": "assets/js/5.5a2140c5.js",
     "revision": "702ee129bd749afe62855cbe31d60b5f"
   },
   {
-    "url": "assets/js/6.1bbb151b.js",
-    "revision": "d40792d8d66cedd00e3c477fe9dbda58"
+    "url": "assets/js/6.723d8b5d.js",
+    "revision": "b47258210affdb845c4b28671c03a740"
   },
   {
-    "url": "assets/js/7.40758711.js",
-    "revision": "eeeabbe2fac07eb6f212ee618417198b"
+    "url": "assets/js/7.4b995baf.js",
+    "revision": "15cce6e719fbafeed1c0f565dc03d9c5"
   },
   {
-    "url": "assets/js/8.23d5fd4a.js",
-    "revision": "546c55aecc145d80f9dae397ea78baef"
+    "url": "assets/js/8.c96400a6.js",
+    "revision": "d4f77ea183b1427170f7149c62194368"
   },
   {
-    "url": "assets/js/9.eaf8dcc3.js",
-    "revision": "a65ebb43ed310530187129a20dac9bd4"
+    "url": "assets/js/9.92a2e09a.js",
+    "revision": "6ffc5ec0c1984e5c58a5c57b471b8d90"
   },
   {
-    "url": "assets/js/app.f640b1c3.js",
-    "revision": "90e498e35d05de561d9a695da29b2344"
+    "url": "assets/js/app.f70475cf.js",
+    "revision": "dc9fa6d4200aaec39d63cc6586cff294"
   },
   {
     "url": "assets/js/vuejs-paginate.643397bf.js",
@@ -141,19 +141,19 @@ self.__precacheManifest = [
   },
   {
     "url": "category/code/index.html",
-    "revision": "798f7f5a0f67090c5a9e9d74a7c5d7b3"
+    "revision": "4c4d61d99b00a99621b80fe14455d94a"
   },
   {
     "url": "category/index.html",
-    "revision": "b092be4beb911e1de983e6ae8b38b598"
+    "revision": "fac32b3a1fc6eb84d8a806210ffdd4d4"
   },
   {
     "url": "index.html",
-    "revision": "d6cfcb89ccf6e51ed76f7fb6eac1caa8"
+    "revision": "22de923bc09e80ca6bd555476e2dae4e"
   },
   {
     "url": "live2d.min.js",
-    "revision": "97a7ac4695228102d94d2dd24f470d8e"
+    "revision": "0b114267d901addce86e0deb14487368"
   },
   {
     "url": "model/xiaomai/13.jpg",
@@ -161,23 +161,23 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/blog/index.html",
-    "revision": "0d757af4fcf04ae0027b63a6fe35498b"
+    "revision": "9f68c96017803ea21c93d914a0e7eb28"
   },
   {
     "url": "tag/custome theme/index.html",
-    "revision": "9085710cc85f2ae544eee06e4b83527c"
+    "revision": "90eebfbb4edf2a5f7491df02ac4453ae"
   },
   {
     "url": "tag/index.html",
-    "revision": "6a8aa7efec501265814fd33c8fa084a5"
+    "revision": "d08dc1320838170d4fbea3c761964978"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "d1234f4111af3fb6dbeae93b98309151"
+    "revision": "fc34d21617d4cd9d6fb8dad32e159adc"
   },
   {
     "url": "tag/看板娘/index.html",
-    "revision": "7b9066c83cf14bac94415480b1569195"
+    "revision": "98f34060edabe725f68d827218bb3eb2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
