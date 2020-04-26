@@ -25,23 +25,23 @@ self.__precacheManifest = [
   },
   {
     "url": "2020/04/24/建站啦/index.html",
-    "revision": "76a56b3a5c085e1f0c1db291d72069fa"
+    "revision": "7dfcfdf3523582ceb7e8f583db33557b"
   },
   {
-    "url": "2020/04/26/_26-vuepress看板娘小埋/index.html",
-    "revision": "305120ccadc3cb03d75cdf11ad8cbdf1"
+    "url": "2020/04/26/vuepress看板娘小埋/index.html",
+    "revision": "6b703d5b06aef053d65851486975cd81"
   },
   {
     "url": "404.html",
-    "revision": "a32d86bfd29e39de6b3b348590ebf2de"
+    "revision": "a3a2c516729d50634b14dd69bbfbf160"
   },
   {
     "url": "about/index.html",
-    "revision": "7f7093d68c670853d977a793e1fc892f"
+    "revision": "29d5ace0956a10a05470510bad554582"
   },
   {
-    "url": "assets/css/0.styles.6d70b21b.css",
-    "revision": "5b56f0dafd244f5c1d71c1f922937300"
+    "url": "assets/css/0.styles.6d8de1df.css",
+    "revision": "d73a90a44dd10d5b48620fda4548d0bf"
   },
   {
     "url": "assets/fonts/EJRVQgYoZZY2vCFuvAFbzr-_dSb_nco.9738e026.woff2",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "revision": "d022f0e6ac72b7ab5791b0f524626883"
   },
   {
-    "url": "assets/js/11.f4f35078.js",
+    "url": "assets/js/11.ab529091.js",
     "revision": "7f7ac5408ad83ba8ee3405733449d252"
   },
   {
-    "url": "assets/js/12.d3902f96.js",
-    "revision": "99c49bfe06728529eb37846938519025"
+    "url": "assets/js/12.3e49fa3b.js",
+    "revision": "09f0ef41c878ffc3278ce62285477933"
   },
   {
     "url": "assets/js/13.355bff21.js",
@@ -100,32 +100,32 @@ self.__precacheManifest = [
     "revision": "d8e8dfdf1a02d9a8adb376f3dd21a7cd"
   },
   {
-    "url": "assets/js/4.17d61346.js",
-    "revision": "cf98c515f275733b2538074cfcdfac39"
+    "url": "assets/js/4.58c6600e.js",
+    "revision": "f9366f1755f399dc7c342591d5d92c63"
   },
   {
     "url": "assets/js/5.5a2140c5.js",
     "revision": "702ee129bd749afe62855cbe31d60b5f"
   },
   {
-    "url": "assets/js/6.8bcd47d3.js",
-    "revision": "914ddf75f1f136c67ca567c894931737"
+    "url": "assets/js/6.1bbb151b.js",
+    "revision": "d40792d8d66cedd00e3c477fe9dbda58"
   },
   {
-    "url": "assets/js/7.0ebd04b3.js",
-    "revision": "2d95971e81ee316498d59b81489b552e"
+    "url": "assets/js/7.40758711.js",
+    "revision": "eeeabbe2fac07eb6f212ee618417198b"
   },
   {
-    "url": "assets/js/8.42dc7992.js",
-    "revision": "81321919096a3ed44e46924c6ffa19af"
+    "url": "assets/js/8.ce1135c2.js",
+    "revision": "66fad3cb584a220e94adb733b0fe98b3"
   },
   {
-    "url": "assets/js/9.33c1b6e4.js",
-    "revision": "8528fc0f803d228bdbfeea49b2eab3b7"
+    "url": "assets/js/9.34f1cec0.js",
+    "revision": "bc2ec986f2931f6e9483431b68bc40d5"
   },
   {
-    "url": "assets/js/app.c90c61a2.js",
-    "revision": "62fca93627c0f454ff7cd07081e3cc0b"
+    "url": "assets/js/app.da30e5a3.js",
+    "revision": "87e024c13776c9b73f47e39aa8adf99b"
   },
   {
     "url": "assets/js/vuejs-paginate.643397bf.js",
@@ -141,15 +141,15 @@ self.__precacheManifest = [
   },
   {
     "url": "category/code/index.html",
-    "revision": "2cc67286d0469947c7d71ef76d3f2d19"
+    "revision": "995e69028daa3dc08f5e55551d732933"
   },
   {
     "url": "category/index.html",
-    "revision": "8bc17b5be6c4118eb3e790d3f525c8e4"
+    "revision": "6b5612bd304a1cfa3ea7eecbde1aa85e"
   },
   {
     "url": "index.html",
-    "revision": "b7ebbdc3405d0f41ebd8f0422f8160ff"
+    "revision": "4005666e3bfaa9586e2527610ad453ca"
   },
   {
     "url": "live2d.min.js",
@@ -161,23 +161,23 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/blog/index.html",
-    "revision": "2c352c3bc4e4b9508a8bcc0c56967b85"
+    "revision": "12b23a72f2b53825bdcdf94a6dad4281"
   },
   {
     "url": "tag/custome theme/index.html",
-    "revision": "23999e227f5bbf3fc4d588764b0090b6"
+    "revision": "f264b1e75577bdf3b32e07e0751d5b22"
   },
   {
     "url": "tag/index.html",
-    "revision": "f99fc7484b88b628286256db199de737"
+    "revision": "ab708f2773b0b0fd4c469150c5885baf"
   },
   {
     "url": "tag/vuepress/index.html",
-    "revision": "253a90af9b93f3c16281bb8a69744629"
+    "revision": "8ad6f73c446efd5c7141d15ce0fc4a1e"
   },
   {
     "url": "tag/看板娘/index.html",
-    "revision": "db0a98ec2dd5566654c2fa993408fdbc"
+    "revision": "9eccb87b7d881349d82aac73779eac8f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
